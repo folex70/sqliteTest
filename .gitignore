@@ -1,0 +1,13 @@
+*.log
+*.info
+*.pdb
+ProjectSettings/
+sqliteTest/sqliteTest_Data/
+Library/
+Temp/
+sqliteTest/Library/
+sqliteTest/Temp/
+obj/
+sqliteTeste_Data/
+sqliteTeste_Data/Managed
+sqliteTeste.exe

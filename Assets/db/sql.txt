@@ -1,0 +1,3 @@
+CREATE  TABLE "main"."highScores" ("PlayerId" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL  UNIQUE , "Name" TEXT, "Score" INTEGER, "Date" DATETIME DEFAULT CURRENT_DATE);
+
+--insert into highscores(name,score) values ('aaa',120);
